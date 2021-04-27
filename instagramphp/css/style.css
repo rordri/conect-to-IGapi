@@ -1,0 +1,29 @@
+
+  .posts{
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .like-comment{
+    font-size: 10px;
+    color:#333;
+    padding-bottom: 40px;
+    font-weight: bold;
+  }
+
+
+  .megamenu-li {
+  position: static !important;
+}
+
+.megamenu {
+  position: absolute !important;
+  width: 100%;
+  left: 0;
+  right: 0;
+  padding: 15px;
+}
+
